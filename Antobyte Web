@@ -91,7 +91,7 @@ $boost=1,site=bbb.org
 $boost=1,site=imdb.com
 $boost=1,site=stackexchange.com
 $boost=1,site=github.com
-$boost=1,site=neocities.org/
+$boost=1,site=neocities.org
 
 ! General: Services
 ! (Useful websites, places where you go to have a service completed)
